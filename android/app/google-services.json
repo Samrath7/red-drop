@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094845451080",
+    "project_id": "red-drop-6db08",
+    "storage_bucket": "red-drop-6db08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094845451080:android:8ed5ee453fd0695939c17d",
+        "android_client_info": {
+          "package_name": "com.example.red_drop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC21yAqScJEm8g38SuXB8aThbwPyN9vxDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
